@@ -1,6 +1,9 @@
 ## Sobre mim
 
 Meu nome é **João Rafael**, tenho 14 anos. Atualmente programo em **HTML**, **CSS** e **JS**. Já fiz alguns trabalhos em nextjs e estou aprendendo mais sobre reactjs.<br>Tenho um bot para discord, **Scipt**, feito em nodejs. Em breve ele será verificado 🚀
+<br>
+Comecei na área de desenvolvimento a 2 anos atrás, por meio da hcode no curso de JS.
+<br>Sou muito grato por terem me ajudado tanto quando comecei. Só tenho a agradecer.
 
 ---
 
