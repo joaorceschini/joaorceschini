@@ -4,8 +4,6 @@ Meu nome é **João Rafael**, tenho 14 anos. Atualmente programo em **HTML**, **
 
 ---
 
-### Status
-
 <p align = "center">
   <a href="https://github.com/joaorceschini/">
     <img src = "https://github-readme-stats.vercel.app/api?username=joaorceschini&show_icons=true&theme=dark&line_height=27">
