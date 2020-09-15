@@ -1,15 +1,15 @@
 # João Rafael
 
-Web Developer @hcodebr
+Web Developer **@hcodebr**
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-rafael-valarini-r-ceschini-6899831a6/">
+    <a href="https://discord.gg/KyAfDXa">
         <img alt="My discord" src="https://img.shields.io/badge/Discord-JR%230007-orange">
     </a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-rafael-valarini-r-ceschini-6899831a6/">
         <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Rafael-blue">
     </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-rafael-valarini-r-ceschini-6899831a6/">
+    <a href="https://mail.google.com/">
         <img alt="Email" src="https://img.shields.io/badge/My-Email-red">
     </a>
 </p>
