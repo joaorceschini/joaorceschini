@@ -12,5 +12,5 @@ Meu nome é **João Rafael**, tenho 14 anos. Atualmente programo em **HTML**, **
 </p>
 
 <h4 align="center">
-    Perfil João Rafael 🧡
+    Perfil de João Rafael 🧡
 </h4>
