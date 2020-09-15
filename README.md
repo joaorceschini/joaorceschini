@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Meu nome é **João Rafael**, tenho 14 anos. Atualmente programo em HTML, CSS e JS. Já fiz alguns trabalhos em nextjs e estou aprendendo mais sobre reactjs. Tenho um bot para discord *Scipt*, feito em nodejs. ~~Em breve ele será verificado 🧡~~
+Meu nome é **João Rafael**, tenho 14 anos. Atualmente programo em **HTML**, **CSS** e **JS**. Já fiz alguns trabalhos em nextjs e estou aprendendo mais sobre reactjs.<br>Tenho um bot para discord, **Scipt**, feito em nodejs. Em breve ele será verificado 🧡
 
 <p align = "center">
   <a href="https://github.com/joaorceschini/">
