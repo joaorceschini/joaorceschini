@@ -14,7 +14,7 @@ Web Developer **@hcodebr**
     </a>
 </p>
 
-Tenho 14 anos.<br>Atualmente programo em **HTML**, **CSS** e **JS**. Já fiz alguns trabalhos em nextjs e estou aprendendo mais sobre reactjs.<br>Tenho um bot para discord, **Script**, feito em nodejs. Em breve ele será verificado 🚀
+Tenho 14 anos.<br>Atualmente programo em **HTML**, **CSS** e **JS**. Já fiz alguns trabalhos em NextJS e estou aprendendo mais sobre ReactJS.<br>Tenho um bot para discord, **Script**, feito em JavaScript. Em breve ele será verificado 🚀
 <br>
 Comecei na área de desenvolvimento há 2 anos, por meio da hcode no curso de JS.
 
