@@ -12,7 +12,22 @@ Web Developer **@hcodebr**
     <a href="https://mail.google.com/">
         <img alt="Email" src="https://img.shields.io/badge/My-Email-red">
     </a>
+    <a href="#">
+        <img alt="Email" src="https://img.shields.io/github/followers/joaorceschini?label=follow&style=social">
+    </a>
 </p>
+
+##  Estátisticas
+<p align="left">
+    <a href="#">
+        <img alt="Follow" src="https://img.shields.io/github/followers/joaorceschini?label=follow&style=social">
+    </a>
+    <a href="#">
+        <img alt="Watch" src="https://img.shields.io/github/watchers/joaorceschini/joaorceschini?label=Watch&style=social">
+    </a>
+</p>
+
+---
 
 Tenho 14 anos.<br>Atualmente programo em **HTML**, **CSS** e **JS**. Já fiz alguns trabalhos em NextJS e estou aprendendo mais sobre ReactJS.<br>Tenho um bot para discord, **Script**, feito em JavaScript. Em breve ele será verificado 🚀
 <br>
