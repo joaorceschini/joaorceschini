@@ -17,7 +17,7 @@ Web Developer **@hcodebr**
 ##  Estátisticas
 <p align="left">
     <a href="#">
-        <img alt="Follow" src="https://img.shields.io/github/followers/joaorceschini?label=follow&style=social">
+        <img alt="Follow" src="https://img.shields.io/github/followers/joaorceschini?label=followers&style=social">
     </a>
 </p>
 
