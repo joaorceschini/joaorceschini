@@ -12,9 +12,6 @@ Web Developer **@hcodebr**
     <a href="https://mail.google.com/">
         <img alt="Email" src="https://img.shields.io/badge/My-Email-red">
     </a>
-    <a href="#">
-        <img alt="Email" src="https://img.shields.io/github/followers/joaorceschini?label=follow&style=social">
-    </a>
 </p>
 
 ##  Estátisticas
