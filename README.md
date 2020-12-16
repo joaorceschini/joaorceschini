@@ -23,22 +23,18 @@
 
 Olá! Meu nome é João Rafael e muitos me chamam de jr. Tenho 15 anos. 🚀
 
-<div align="left">
-    <p>
-        Comecei na área da programação 2 anos atrás, fazendo pequenos sites em **HTML** e **CSS**, confesso de demorei um pouco pra aprender. Aprendi desde pequeno a sempre colocar meus projetos no github, então você pode entrar alguns dos meus primeiros sites aqui.<br>
-        Depois de um tempo, comecei a aprender minha primeira linguagem de programação, o **JavaScript**. Fiz o curso completo de JS da Hcode, onde pude ter uma boa base.<br>
-        Hoje, faço sites em NextJS, por enquanto, apenas front-end. Estou aprendendo back-end aos poucos.<br>
-        Atualmente me considero bem ativo na programação. Abaixo podemos ver minhas estatísticas.
-    </p>
-</div>
+Comecei na área da programação 2 anos atrás, fazendo pequenos sites em **HTML** e **CSS**, confesso de demorei um pouco pra aprender. Aprendi desde pequeno a sempre colocar meus projetos no github, então você pode entrar alguns dos meus primeiros sites aqui.<br>
+Depois de um tempo, comecei a aprender minha primeira linguagem de programação, o **JavaScript**. Fiz o curso completo de JS da Hcode, onde pude ter uma boa base.<br>
+Hoje, faço sites em NextJS, por enquanto, apenas front-end. Estou aprendendo back-end aos poucos.<br>
+Atualmente me considero bem ativo na programação. Abaixo podemos ver minhas estatísticas.
 
 ### Projetos atuais
 
 Atualmente meus principais projetos pessoais são:
-<p>🍁 Dev & Help</p>
+### 🍁 Dev & Help
 > Um servidor do Discord focado em programação, mas especificamente, uma botlist que possui suporte a várias linguagens. Se quiser saber mais, acesse <a href="https://dev-help.vercel.app/">nosso site</a>.<br>
 
-<p>👾 Script</p>
+### 👾 Script
 > Um bot para discord, feito com o objetivo de ajudar servidores. Conta com diversas categorias, entre elas temos: moderação, música, entretenimento, ecnomia e utilidades.
 > Saiba mais no <a href="https://script-bot.vercel.app/">site oficial</a>.
 > Adicione ele em seu servidor clicando <a href="https://discord.com/oauth2/authorize?=&client_id=762764583793459200&scope=bot&permissions=8">aqui</a>.<br>
