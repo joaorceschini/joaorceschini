@@ -28,7 +28,7 @@ Depois de um tempo, comecei a aprender minha primeira linguagem de programação
 Hoje, faço sites em NextJS, por enquanto, apenas front-end. Estou aprendendo back-end aos poucos.<br>
 Atualmente me considero bem ativo na programação. Abaixo podemos ver minhas estatísticas.
 
-### Projetos atuais
+## Projetos atuais
 
 Atualmente meus principais projetos pessoais são:
 ### 🍁 Dev & Help
