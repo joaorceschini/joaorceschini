@@ -23,10 +23,10 @@
 
 Olá! Meu nome é **João Rafael** e muitos me chamam de **jr**. Tenho 15 anos. 🚀
 
-Comecei na área da programação 2 anos atrás, fazendo pequenos sites em **HTML** e **CSS**, confesso de demorei um pouco pra aprender. Aprendi desde pequeno a sempre colocar meus projetos no github, então você pode entrar alguns dos meus primeiros sites aqui.<br>
+Comecei na área da programação 2 anos atrás, fazendo pequenos sites em **HTML** e **CSS**. Aprendi desde pequeno a sempre colocar meus projetos no github, então você pode entrar alguns dos meus primeiros sites aqui.<br>
 Depois de um tempo, comecei a aprender minha primeira linguagem de programação, o **JavaScript**. Fiz o curso completo de JS da Hcode, onde pude ter uma boa base.<br>
-Hoje, faço sites em NextJS, por enquanto, apenas front-end. Estou aprendendo back-end aos poucos.<br>
-Atualmente me considero bem ativo na programação. Abaixo podemos ver minhas estatísticas.<br>
+Hoje faço sites em NextJS, por enquanto, apenas front-end. Estou aprendendo back-end aos poucos.<br>
+Atualmente me considero bem ativo na programação. Abaixo podem ver minhas estatísticas.<br>
 Sigo a rotina padrão: 
 
 ## Projetos atuais
