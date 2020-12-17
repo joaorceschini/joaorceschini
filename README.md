@@ -1,5 +1,5 @@
 ## Hello everyone, I'm João Rafael
-<img align='right' src="https://media4.giphy.com/media/26BRCAa7zyWHTWOyY/source.gif" width="180">
+<img align='right' src="https://media4.giphy.com/media/26BRCAa7zyWHTWOyY/source.gif" width="150">
 
 > Web Developer **@hcodebr** 🦔
 
