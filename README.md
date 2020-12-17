@@ -1,5 +1,5 @@
 ## Hello everyone, I'm João Rafael
-<img align='right' src="https://media4.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="120">
+<!-- <img align='right' src="https://media4.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="120"> -->
 
 > Web Developer **@hcodebr** 🦔
 
@@ -33,7 +33,7 @@ Sigo a rotina padrão:
 
 Atualmente meus principais projetos pessoais são:
 ### 🍁 Dev & Help
-> Um servidor do Discord focado em programação, mas especificamente, uma botlist que possui suporte a várias linguagens. Se quiser saber mais, acesse <a href="https://dev-help.vercel.app/">nosso site</a>.<br>
+> Um servidor do Discord focado em programação, mas especificamente, uma botlist que possui suporte à várias linguagens. Se quiser saber mais, acesse <a href="https://dev-help.vercel.app/">nosso site</a>.<br>
 
 ### 👾 Script
 > Um bot para discord, feito com o objetivo de ajudar servidores. Conta com diversas categorias, entre elas temos: `moderação`, `música`, `entretenimento`, `ecnomia` e `utilidades`.
