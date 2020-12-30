@@ -27,7 +27,7 @@ Comecei na área da programação 2 anos atrás, fazendo pequenos sites em **HTM
 Depois de um tempo, comecei a aprender minha primeira linguagem de programação, o **JavaScript**. Fiz o curso completo de JS da Hcode, onde pude ter uma boa base.<br>
 Hoje faço sites em NextJS, por enquanto, apenas front-end. Estou aprendendo back-end aos poucos.<br>
 Atualmente me considero bem ativo na programação. Abaixo podem ver minhas estatísticas.<br>
-Sigo a rotina padrão: 
+Sigo a rotina padrão: eat, sleep, code, repeat.
 
 ## Projetos atuais
 
