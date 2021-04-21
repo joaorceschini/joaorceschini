@@ -5,7 +5,7 @@
 
 <p align="left">
     <a href="https://discord.gg/KyAfDXa">
-        <img alt="My discord" src="https://img.shields.io/badge/Discord-jr'vrc%230010-orange">
+        <img alt="My discord" src="https://img.shields.io/badge/Discord-john.ces%232021-orange">
     </a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-rafael-valarini-r-ceschini-6899831a6/">
         <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Rafael-blue">
