@@ -1,7 +1,7 @@
 ## Hello everyone, I'm João Rafael
 <!-- <img align='right' src="https://media4.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="120"> -->
 
-> Web Developer **@hcodebr** 🦔
+> Support at **@hcodebr** 🦔
 
 <p align="left">
     <a href="https://discord.gg/KyAfDXa">
