@@ -1,3 +1,7 @@
+<img align="right" src="coding.gif" max-width="400px" width="400px" align="right">
+
+<h2 align="left"> Hello, I'm Gilberto, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+
 ## Hello everyone, I'm João Rafael
 <!-- <img align='right' src="https://media4.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="120"> -->
 
