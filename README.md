@@ -46,12 +46,12 @@ Atualmente meus principais projetos pessoais são:
 
 ## Estatísticas
 
-<p align = "center">
+<div>
   <a href="https://github.com/joaorceschini/">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaorceschini&show_icons=true&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorceschini&layout=compact&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorceschini&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorceschini&layout=compact&theme=dark">
   </a>
-</p>
+</div>
 
 <h4 align="center">
     Perfil de João Rafael 🦔
