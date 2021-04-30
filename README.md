@@ -1,23 +1,25 @@
-## Hello everyone, I'm João Rafael
-<!-- <img align='right' src="https://media4.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="120"> -->
+<img align="right" src="coding.svg" max-width="300px" width="300px" align="right">
+
+<h2 align="left"> Hello everyone, I'm João Rafael <img align='right' src="hedgehog.gif" width="80"></h2>
+
 
 > Support at **@hcodebr** 🦔
 
 <p align="left">
-    <a href="https://discord.gg/KyAfDXa">
-        <img alt="My discord" src="https://img.shields.io/badge/Discord-john.ces%232021-orange">
+    <a href="https://discord.com/users/572827880091025408">
+        <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=john.ces%232021&color=black">
     </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-rafael-valarini-r-ceschini-6899831a6/">
-        <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Rafael-blue">
+    <a href="https://www.linkedin.com/in/joaorceschini/">
+        <img alt="My linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=joaorceschini&color=white">
     </a>
-    <a href="https://mail.google.com/">
-        <img alt="Email" src="https://img.shields.io/badge/My-Email-red">
+    <a href="https://twitter.com/joaorceschini">
+        <img alt="My twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Jo%C3%A3o%20Rafael&color=7ae">
     </a>
 </p>
 
 <p align="left">
     <a href="#">
-        <img alt="Follow" src="https://img.shields.io/github/followers/joaorceschini?label=followers&style=social">
+        <img alt="My twitter" src="https://img.shields.io/github/followers/joaorceschini?style=flat-square&logo=github&label=Followers&color=7ae">
     </a>
 </p>
 
@@ -46,11 +48,11 @@ Atualmente meus principais projetos pessoais são:
 
 <p align = "center">
   <a href="https://github.com/joaorceschini/">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaorceschini&show_icons=true&theme=react&line_height=27">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorceschini&layout=compact&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api?username=joaorceschini&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorceschini&layout=compact&theme=dark">
   </a>
 </p>
 
 <h4 align="center">
-    Perfil de João Rafael 🌀
+    Perfil de João Rafael 🦔
 </h4>
