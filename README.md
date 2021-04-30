@@ -1,4 +1,4 @@
-<img align="right" src="coding.svg" max-width="300px" width="300px" align="right">
+<img align="right" src="coding.svg" max-width="350px" width="350px" align="right">
 
 <h2 align="left"> Hello everyone, I'm João Rafael <img align='right' src="hedgehog.gif" width="80"></h2>
 
