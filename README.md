@@ -31,18 +31,6 @@ Hoje faço sites em NextJS, por enquanto, apenas front-end. Estou aprendendo bac
 Atualmente me considero bem ativo na programação. Abaixo podem ver minhas estatísticas.<br>
 Sigo a rotina padrão: eat, sleep, code, repeat.
 
-## Projetos atuais
-
-Atualmente meus principais projetos pessoais são:
-### 👾 Script
-> Um bot para discord, feito com o objetivo de ajudar servidores. Conta com diversas categorias, entre elas temos: `moderação`, `música`, `entretenimento`, `economia` e `utilidades`.
-> Saiba mais no <a href="https://script-bot.vercel.app/">site oficial</a>.
-> Adicione ele em seu servidor clicando <a href="https://discord.com/oauth2/authorize?=&client_id=762764583793459200&scope=bot&permissions=8">aqui</a>.<br>
-
-### ⚡ Hydra
-> Outro bot para discord super completo, possui vários sistema inovadores e uma economia incrível.
-> Site: <a href="https://hydrabot.xyz/">hydrabot.xyz</a>.
-> Adicione em seu servidor clicando <a href="https://discord.com/oauth2/authorize?=&client_id=716708153143590952&scope=bot&permissions=8">aqui</a>.<br>
 
 ## Estatísticas
 
