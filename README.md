@@ -36,8 +36,8 @@ Sigo a rotina padrão: eat, sleep, code, repeat.
 
 <div>
   <a href="https://github.com/joaorceschini/">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorceschini&show_icons=true&theme=dark">
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorceschini&layout=compact&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorceschini&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorceschini&layout=compact&theme=dark">
   </a>
 </div>
 
