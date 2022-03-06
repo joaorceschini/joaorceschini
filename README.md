@@ -23,7 +23,7 @@
     </a>
 </p>
 
-Olá! Meu nome é **João Rafael** e muitos me chamam de **jr**. Tenho 15 anos. 🚀
+Olá! Meu nome é **João Rafael** e muitos me chamam de **jr**. Tenho 16 anos. 🚀
 
 Comecei na área da programação 3 anos atrás, fazendo pequenos sites em **HTML** e **CSS**. Aprendi desde pequeno a sempre colocar meus projetos no github, então você pode encontrar alguns dos meus primeiros sites aqui.<br>
 Depois de um tempo, comecei a aprender minha primeira linguagem de programação, o **JavaScript**. Fiz o curso completo de JS da Hcode, onde pude ter uma boa base.<br>
