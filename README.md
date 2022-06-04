@@ -1,6 +1,6 @@
 <img align="right" src="coding.svg" max-width="280px" width="280px" align="right">
 
-<h2 align="left"> Hello everyone, I'm João Rafael <img src="hedgehog.gif" width="1px"></h2>
+<h2 align="left"> Hello everyone, I'm João Rafael <img src="hedgehog.gif" width="100px"></h2>
 
 
 > Support at **@hcodebr** 🦔
