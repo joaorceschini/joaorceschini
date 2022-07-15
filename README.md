@@ -12,9 +12,6 @@
     <a href="https://www.linkedin.com/in/joaorceschini/">
         <img alt="My linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=joaorceschini&color=white">
     </a>
-    <a href="https://twitter.com/joaorceschini">
-        <img alt="My twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Jo%C3%A3o%20Rafael&color=7ae">
-    </a>
 </p>
 
 <p align="left">
