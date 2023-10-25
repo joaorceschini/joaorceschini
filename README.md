@@ -3,8 +3,6 @@
 <h2 align="left"> Hello everyone, I'm João Rafael </h2>
 
 
-> Support at **@hcodebr** 🦔
-
 <p align="left">
     <a href="https://discord.com/users/572827880091025408">
         <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=jces%230916&color=black">
